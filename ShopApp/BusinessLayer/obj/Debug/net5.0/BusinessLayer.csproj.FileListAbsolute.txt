@@ -1,0 +1,17 @@
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Okan Karakoç\Documents\GitHub\ShopApp\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
